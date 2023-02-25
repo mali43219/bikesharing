@@ -1,7 +1,7 @@
 # bikesharing Analysis
 
 
-(https://public.tableau.com/views/Book1_16772499047780/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link)[Dashboard]
+[https://public.tableau.com/views/Book1_16772499047780/NYCBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link](Dashboard)
 
 Purpose:
 The aim of the project is to assist Kate in persuading investors that establishing a bike-sharing program in Des Moines is a viable business plan. In order to convince the proposal, the stakeholder requires a bicycle trip analysis. Despite the data being from August in NYC, the analysis will demonstrate that the proposal is a worthwhile endeavor, based on the situation in New York.
